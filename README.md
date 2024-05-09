@@ -1,0 +1,2 @@
+# Diamond-Store
+app diamond
